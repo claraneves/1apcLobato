@@ -10,3 +10,7 @@ body{
 width: 10%;
 height: 20%;
 }
+ .img{ background-image: url(isso.png);
+    border: 2px;
+
+}
