@@ -12,5 +12,8 @@ height: 20%;
 }
  .img{ background-image: url(isso.png);
     border: 2px;
-
-}
+ }
+ .button{
+    display: inline-block;
+    padding: 10px 20px;
+ }
